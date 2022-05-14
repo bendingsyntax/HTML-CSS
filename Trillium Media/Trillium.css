@@ -1,0 +1,26 @@
+/* CSS Document */
+body{background-color: #e6e6fa; 
+     color: #191970;}
+header{background-color: #191970; 
+       color: #e6e6fa;
+       line-height: 200%;
+       font-family: "georgia", "Times New Roman", serif;
+       text-indent: 1em;
+       text-shadow: 3px 3px 5px #CCCCCC;}
+h2{background-color: #aeaed4; color: #191970;
+   font-family: Georgia, "Times New Roman", serif;
+   text-align: center;}
+nav a{text-decoration: none;
+      font-weight: bold;
+      font-size: 1.25em;
+      word-spacing: 1em;}
+p{font-size: .90em;
+  text-indent: 3em;}
+ul{font-weight: bold;}
+.feature{color: #C70000;}
+.company{font-weight: bold;
+         font-family: Georgia, "Times New Roman", serif;
+         font-size: 1.25em;}
+footer{color: #333333;
+       font-size: .75em;
+       font-style: italic}

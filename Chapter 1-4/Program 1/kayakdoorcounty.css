@@ -1,0 +1,28 @@
+/* CSS Document */
+body {background: url("background.jpg");}
+#container {margin-left: auto;
+			margin-right: auto;
+			width: 80%;
+			background-color: #FFFFFF;
+			min-width: 650px;
+			max-width: 1280px;}
+header {background-color: #000033;
+		color: #FF9;
+		background-image: url("headerbackblue.jpg");
+		background-position: right;
+		background-repeat: no-repeat;
+		height: 80px;
+		padding-top: 5px;
+		padding-left: 2em;}
+nav {word-spacing: 1em;
+	 font-weight: bold;
+	 font-size: 1.5em;
+	 text-align: center;}
+main {background-image: url("heroback2.jpg");
+	  background-size: 100% 100%;
+	  color: #FFF;
+	  padding: 2em;}
+footer {font-style: italic;
+		font-size: .8em;
+		text-align: center;
+		padding: .5em;}
